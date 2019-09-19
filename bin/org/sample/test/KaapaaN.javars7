@@ -1,0 +1,12 @@
+package org.sample.test;
+
+public class KaapaaN {
+	public static void main(String[] args) {
+		String name = "SURYA";
+		String movie = "KAAPAAN";
+	    String date = "20-Sep-2019";
+	    System.out.println("Name of the Actor is "+name);
+	    System.out.println("Title of the Movie is "+movie);
+	    System.out.println("Release date of the Movie is "+date);
+}
+}
